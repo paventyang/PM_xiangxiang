@@ -109,6 +109,8 @@
 }
 .line {
 }
+.image {
+}
 .label {
   font-size:16px;
   text-align:left;
@@ -122,6 +124,15 @@
   font-size:13px;
 }
 .ellipse {
+}
+.shape {
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
 }
 .button {
 }
